@@ -4,4 +4,4 @@ En este proyecto nos encontramos con la implementación el modelo Kmeans de apre
 
 Para un análisis completo desde el contexto del problema, hasta las conclusiones de la investigacion, se debe leer el Reporte.
 
-Asimismo se debe de usar la base de datos DiabetesBin
+Asimismo se debe de usar la base de datos Diabetes
